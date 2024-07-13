@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://www.churchofjesuschrist.org/imgs/d874337036f711eebc73eeeeac1e5f8cb35f1b80/full/1280%2C/0/default');
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+}

@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://png.pngtree.com/background/20230427/original/pngtree-image-of-a-japanese-woman-reading-under-a-cherry-tree-picture-image_2496753.jpg');
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+}
